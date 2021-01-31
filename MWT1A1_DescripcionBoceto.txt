@@ -1,0 +1,102 @@
+
+
+DESCRIPCIÓN DEL BOCETO:
+
+a).- ¿De qué trata mi página?
+          
+          R = Mi página trata de la "Ley General de Acceso de las Mujeres a una vida libre de Violencia", promulgada el 1 de febrero de 2007, y que 
+constituye un gran paso en el combate de este grave problema. Su importancia radica en que establece los lineamientos jurídicos y administrativos
+con los cuales el Estado intervendrá en todos sus niveles de gobierno para garantizar y proteger los derechos de las mujeres a una vida libre de
+violencia.
+La violencia es uno de los problemas sociales más agudos que padecen millones de mujeres en todo el mundo. Desde Desde finales de la década de los
+setenta, las mujeres se organizaron en agrupaciones para llamar la atención de la sociedad y del Estado sobre este fenómeno, y mediante diversas
+estrategias expresaron que esta violencia no era un asunto "íntimo", sino síntoma de la desigualdad, poder e inquietud entre las mujeres y los
+hombres.
+En respuesta a este clamor, los gobiernos se han comprometido, a traves de diversos instrumentos jurídicos internacionales, a impulsar programas
+y políticas públicas dirigidas a prevenir, atender y sancionar la violencia hacia las mujeres. La Convención Interamericana para la Prevención, 
+Sanción y Erradicación de la violencia contra la Mujer es una de las más importantes en su tipo, pues ha vinculado a los países miembros de la
+Organización de Estados Americanos (OEA) que la han ratificado o se han adherido a ella. En México el decreto de promulgación de esta Convención
+se publicó en el Diario Oficial del 19 de enero de 1999, luego de poco más de dos años de procesos legislativos para su entrada en vigor.
+En corcondancia con ésta y otras disposiciones internacionales en materia de derechos humanos de las mujeres, en México se han impulsado cambios 
+en la legislación y las políticas públicas hoy día, 30 entindades federativas cuentan con leyes para la Prevención y Atención de la Violencia 
+Familiar y 29 estados tipifican esta problemática como delito autónomo en sus códigos penales. Desde el Poder Ejecutivo, se han desarrollado
+programas sectoriales que buscan prevenir las causas estructurales de la violencia, así como establecer servicios para la atención directa de las 
+víctimas de la violencia de género
+La creación de esta ley  obedece a la necesidad de contar con un instrumento jurídico que contenga las disposiciones y condiciones legales para 
+brindar seguridad a todas las mujeres del país, sin ser exclusiva de una localidad, sino aplicable en todo el territorio nacional y obligatoria para
+los tres ámbitos de gobierno, en los cuales se aplicarán las políticas públicas necesarias para dar respuesta a las demandas de la población: 
+permitiendo, por supuesto, la concurrencia legislativa para que las entidades federativas tomen las acciones conducentes.
+En su carácter de Secretaría Ejecutiva del Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, el
+Instituto Nacional de las Mujeres publica esta ley como una de las primeras accciones para que las y los funcionarios de los tres órdenes de 
+gobierno cuenten con un insumo básico para conocer cómo funcionará este sistema, cuáles son sus alcances y objetivos.
+
+
+b).- ¿Por qué elegí esta temática?
+
+          R= Escogí este tema dado que las violaciones de los derchos humanos afectan tanto a los hombres como las mujeres, pero su impacto varía
+de acuerdo con el sexo de la víctima. Los estudios sobre la materia permiten afirmar que toda agresión perpretada contra una mujer, tiene alguna
+característica que permite identificarla como violencia de género. Esto significa que está directamente vinculada a la desigual distribución del
+poder y de las relaciones asimétricas que se establecen entre varones y mujeres en nuestra sociedad, que perpetúan la desvalorización de lo 
+femenino y su subordinación a lo masculino. Lo que diferencia a este tipo de violencia de otras formas de agresión y coerción es que el factor
+de riesgo o de vulnerabilidad es el solo hecho de ser mujer.
+
+
+c).- ¿Cómo se llama mi página?
+
+          R= "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia"
+
+
+d).- ¿Con qué elementos cuenta mi página web?
+
+          R= Esta página va a incluir Menú, Título, Subtítulos, Párrafos, Imágenes, Listas, Ligas y Contacto.
+
+
+e).- ¿Cuál es la utilidad de cada elemento?
+
+          R=
+
+MENÚ: El Menú de navegación es la hoja de ruta para navegar en la página web. Entonces, si quieres que los visitantes encuentren fácilmente lo que
+buscan, lo más lógico es mostrar en un Menú todas las subpáginas de la página web. 
+
+TÍTULO: Sirve para referenciar el contenido de la página, ya que es descriptivo, pero no se extiende demasiado. Además el título colabora en el 
+reconocimiento de los buscadores de las palabras clave, que en definitiva son aquellas palabras que emplearán los usuarios para buscar páginas.
+
+SUBTÍTULOS: Su utilidad es distinguir los elementos que integran el tema, llamados subtemas. En éstos, se presentan los argumento o ideas que
+amplían el tema. 
+
+PÁRRAFOS: Ayudan a tener mejor comprensión del contenido de la página, ya que crean una conexión con la persona que nos está leyendo, dan la 
+estructura general del escrito, permiten detectar la idea principal desarrollada en cada párrafo y se posibilita la elección de un ritmo de
+lectura: ojearlo por encima, encontrar una determinada información, consultar un dato en concreto, etc.
+
+IMÁGENES: Son muy importantes porque aumentan la claridad de los mensajes, dan una comunicación atractiva, que es la mejor manera de apoyar y
+difundir la página web.
+
+LISTAS: Representan uno de los principales medios para presentar contenido en una página web. Su funcionamiento es similar al de un diccionario.
+Las listas son ejemplos básicos de contenedores.
+
+LIGAS: Sirven para enlazar dos páginas web de un mismo sitio, pero también pueden enlazar a una página de otro sitio web, a un fichero, a una
+imagen, etc. Con un solo clic en una liga se puede saltar a diferentes elementos de un mismo texto, o acceder a recursos web separados.
+
+CONTACTO: Su función principal es convetirse en el medio de contacto entre los usuarios y tu persona.
+
+
+
+f).- En qué lugar de la página se encuentra cada elemento?
+
+          R=
+
+MENÚ: Generalmente se encuentra en la parte superior de la página.
+
+TÍTULO: La mayoria de las veces, el título se coloca en la parte superior de la página.
+
+SUBTÍTULOS: Se pueden encontrar a lo largo de todo el cuerpo de la página.
+
+PÁRRAFOS: Se localizan en cualquier parte del cuerpo de la página.
+
+IMÁGENES: Es posible colocarlas en toda la página web.
+
+LISTAS: Pueden estar en toda la página.
+
+LIGAS: Se localizan en cualquier parte de la página en que se requieran.
+
+CONTACTO: Por lo general, se pone en la parte baja de la página, aunque también puede ir en la parte superior.
