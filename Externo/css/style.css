@@ -8,8 +8,32 @@ h1{
     font-size: 250%;
 }
 .fondorojo{
-    background-color: red;
+    background-color: white;
+    color: blue;
 }
 .letragrande{
     font-size: x-large;
+}
+.imagen{
+    border-style: none;
+    width: 25%;
+    height: 210px;
+    padding: 30px;
+    margin: 30;
+}
+.pintora{
+    border: 20px groove #ffffff;
+    margin: 30px;
+    padding: 20px
+}
+#PieDePágina{
+    border-left:20px groove #ffffff;
+    margin: 100px;
+    padding: 20px;
+}
+.escuela{
+    background-color: white;
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
 }
