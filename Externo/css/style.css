@@ -7,12 +7,15 @@ h1{
 .subtigrande{
     font-size: 250%;
 }
-.fondorojo{
+.fondoblanco{
     background-color: white;
     color: blue;
 }
-.letragrande{
-    font-size: x-large;
+.encabezado{
+    font-size: large;
+}
+.contenido{
+    font-size: medium;
 }
 .imagen{
     border-style: none;
