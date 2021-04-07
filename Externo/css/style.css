@@ -56,3 +56,24 @@ span{
     background-color: orangered;
     color: yellow;
 }
+ul{
+    list-style-type: circle;
+}
+a:link{
+    background-color: orangered;
+    font-size: medium;
+    padding: 10px 20px;
+}
+a:visited{
+    background-color: red;
+    color: yellow;
+}
+a:hover{
+    background-color: rgb(255, 165, 0);
+    color: black;
+    font-weight: 200;
+}
+a:active{
+    background-color: yellow;
+    color: red;
+}
