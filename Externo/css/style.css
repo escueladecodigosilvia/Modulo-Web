@@ -1,32 +1,33 @@
 body{
-    color: brown; 
+    color: rgb(173, 6, 6); 
     background-color: yellow;
     font-style: italic;
     font-weight: 900; 
-    font-family:'Courier New', Courier, monospace;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 .encabezado{
     text-align: center;
     text-shadow: 0em 0em .5em orangered;
 }
 h1{
-    font-size: 55px;
+    font-size: 65px;
 }
 h2{
-    font-size: 45px;
+    font-size: 55px;
 }
 h3{
-    font-size: 30px;
+    font-size: 40px;
 }
 h4{
-    font-size: 25px;
+    font-size: 35px;
     text-shadow: 0em 0em .5em orangered;
 }
 h5{
-    font-size: 20px;
+    font-size: 30px;
 }
 p{
-    font-size: 16px;
+    font-size: 20px;
+    padding: 0em .5em;
 }
 .fondocafé{
     background-color: brown;
@@ -70,13 +71,14 @@ a:active{
     margin: 30px;
     border-radius: 15px 25px;
     box-shadow: 15px 15px 15px hsl(16, 100%, 50%);
+    height: 1200px;
 }
 .pintora{
     display: inline-block;
     border: 4px double brown;
-    padding: 0%;
     height: 100%;
-    width: 23.78%;
+    width: 23.95%;
+    vertical-align: top;
 }
 .imagen{
     width: 95%;
