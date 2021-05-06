@@ -9,6 +9,12 @@ body{
     text-align: center;
     text-shadow: 0em 0em .5em orangered;
 }
+.img{
+    float: left;
+    width: 350px;
+    height: 250px;
+    margin: .5em .5em;
+}
 h1{
     font-size: 65px;
 }
@@ -32,9 +38,6 @@ p{
 .fondocafé{
     background-color: brown;
     color: yellow;
-}
-.contenido{
-    background: url(../img/pintora.jpeg) no-repeat scroll left top;
 }
 #PieDePágina{
     border-left:20px groove hsl(16, 100%, 50%);
@@ -75,10 +78,23 @@ a:active{
 }
 .pintora{
     display: inline-block;
-    border: 4px double brown;
     height: 100%;
-    width: 23.95%;
+    width: 24.4%;
     vertical-align: top;
+}
+#pint1{
+    border-right: 2px solid brown;
+}
+#pint2{
+    border-right: 2px solid brown;
+    border-left: 2px solid brown;
+}
+#pint3{
+    border-left: 2px solid brown;
+    border-right: 2px solid brown;
+}
+#pint4{
+    border-left: 2px solid brown;
 }
 .imagen{
     width: 95%;

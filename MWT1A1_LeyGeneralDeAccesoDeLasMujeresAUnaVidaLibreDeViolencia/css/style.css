@@ -66,6 +66,9 @@ a:visited{
     background-color: pink;
     color: blue;
 }
+img{
+    margin: .5em .5em;
+}
 .imagen1{
     float: left;
     width: 350px;
